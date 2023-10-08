@@ -1,14 +1,7 @@
 <br clear="both">
-
 <h1 align="center">♨️Hello Everyone ..👋!I'm < Karmegam /> 👑</h1>
+<h3 align="center" style="color:'red'">An Aspiring MERN Stack developer from India</h3>
 
-###
-
-<h3 align="center">An Aspiring MERN Stack developer from India</h3>
-
-###
-
-<br clear="both">
 
 <h1 align="center">😇Happyness is ...<br>when your 🧑‍💻code <br>Run  without Error ..⚔️</h1>
 
