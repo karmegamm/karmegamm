@@ -1,24 +1,26 @@
-<br clear="both">
+
 <h1 align="center">♨️Hello Everyone ..👋!I'm < Karmegam /> 👑</h1>
-<h3 align="center" style="color:'red'">An Aspiring MERN Stack developer from India</h3>
 
+###
 
-<h1 align="center">😇Happyness is ...<br>when your 🧑‍💻code <br>Run  without Error ..⚔️</h1>
-
+<h3 align="center">An Aspiring MERN Stack developer from India</h3>
 <br clear="both">
+<div align='center'>
+  <img align="right" height="200" widh="200" src="https://github.com/karmegamm/karmegamm/assets/124421636/9f19e66e-745c-4b53-bc50-6240c4a47f20"  />  
+  <h1 align="center">😇Happyness is ...<br>when your 🧑‍💻code <br>Run  without Error ..⚔️</h1>
+</div>
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karmegamm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=karmegamm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
-###
 
-<img align="right" height="180" src="https://github.com/karmegamm/karmegamm/assets/124421636/9f19e66e-745c-4b53-bc50-6240c4a47f20"  />
+<br clear="both">
 
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="cplusplus logo"  />
@@ -98,19 +100,19 @@
 
 <div align="center">
   <a href="mailto:karmegam232734@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/ganeshmaran_143/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/karmegamm/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/people/Kar-Megam/pfbid033mYz9K94oMkVmtmpvmaCNGFw1mSh5SV61QUnJKL92jiFZpVNC4BkitKQE79TH37bl/?mibextid=ZbWKwL" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
   <a href="https://dev.to/karmegamm" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="55" height="35" alt="devto logo"  />
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
 </div>
 
