@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">♨️Hello Everyone ..👋!I'm < Karmegam/> 👑</h1>
+<h1 align="center">♨️Hello Everyone ..👋!I'm < Karmegam/></h1>
 
 ###
 
