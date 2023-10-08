@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://github.com/karmegamm/karmegamm/assets/124421636/9f19e66e-745c-4b53-bc50-6240c4a47f20)"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://github.com/karmegamm/karmegamm/assets/124421636/9f19e66e-745c-4b53-bc50-6240c4a47f20"  />
 
 ###
 
