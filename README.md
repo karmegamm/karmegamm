@@ -1,8 +1,10 @@
 <br clear="both">
 
-<h3 align="center">♨️Hello Everyone ..👋!I'm < Karmegam /> 👑</h3>
+<h1 align="center">♨️Hello Everyone ..👋!I'm < Karmegam /> 👑</h1>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karmegamm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -10,6 +12,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
