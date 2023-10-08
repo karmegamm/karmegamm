@@ -1,24 +1,25 @@
+<br clear="both">
 
 <h1 align="center">♨️Hello Everyone ..👋!I'm < Karmegam /> 👑</h1>
 
 ###
 
 <h3 align="center">An Aspiring MERN Stack developer from India</h3>
+
+###
+
 <br clear="both">
-<div align='center'>
-  <img align="right" height="200" widh="200" src="https://github.com/karmegamm/karmegamm/assets/124421636/9f19e66e-745c-4b53-bc50-6240c4a47f20"  />  
-  <h1 align="center">😇Happyness is ...<br>when your 🧑‍💻code <br>Run  without Error ..⚔️</h1>
-</div>
-
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karmegamm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=karmegamm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
+###
 
-<br clear="both">
+<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="c logo"  />
